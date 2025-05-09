@@ -1,5 +1,5 @@
 # 그림판 앱 – SWOT 분석
-![앱 화면](screenshot.png)
+# <img src="https://github.com/user-attachments/assets/ef8c564f-6dba-4b34-85ac-816747006f01" width="25%" >
 이 앱은 안드로이드 스튜디오에서 Java로 구현된 그림판 앱이며, 색상 변경, 굵기 조절, 지우기 기능을 제공합니다.
 
 ## ✅ Strengths (강점)
